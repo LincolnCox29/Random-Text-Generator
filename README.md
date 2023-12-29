@@ -1,3 +1,7 @@
+## Pip insall ##
+       python -m pip install RndTextGen
+
+
 ## What is this? ##
 
 This is a python library for generating random text.
